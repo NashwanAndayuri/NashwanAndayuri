@@ -1,6 +1,6 @@
 <img src="https://media1.tenor.com/m/E2shEeWbxbwAAAAC/nian-bean-arknight.gif" width="50%" /> 
 
-<span style="font-weight: bold;"> Hi there 👋</span>
+##  <a style="font-weight: bolder;"> Hi there 👋</a>
 
 - 🌱 I’m currently learning JavaScript/ReactJS
 - 💬 Ask me about Anything🥰
